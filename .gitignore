@@ -1,0 +1,37 @@
+# ==========================================
+# Root IDE Directories
+# ==========================================
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# ==========================================
+# Build Outputs & Compiled Code (All Sub-projects)
+# ==========================================
+**/target/
+**/build/
+**/out/
+
+# Java Artifacts
+*.class
+*.jar
+*.war
+
+# ==========================================
+# System & OS Files
+# ==========================================
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+
+# ==========================================
+# Logs & Secrets
+# ==========================================
+*.log
+logs/
+.env
+.env.local
+*gcp-key*.json
+*credentials*.json

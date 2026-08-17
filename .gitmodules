@@ -5,9 +5,12 @@
 [submodule "findora-eureka-server"]
 	path = findora-eureka-server
 	url = https://github.com/Charuka974/findora-eureka-server.git
+	branch = main
 [submodule "findora-config-server"]
 	path = findora-config-server
 	url = https://github.com/Charuka974/findora-config-server.git
+	branch = main
 [submodule "findora-config-repo"]
 	path = findora-config-repo
 	url = https://github.com/Charuka974/findora-config-repo.git
+	branch = main
