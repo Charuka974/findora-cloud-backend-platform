@@ -1,6 +1,7 @@
 [submodule "findora-api-gateway"]
 	path = findora-api-gateway
 	url = https://github.com/Charuka974/findora-api-gateway.git
+	branch = main
 [submodule "findora-eureka-server"]
 	path = findora-eureka-server
 	url = https://github.com/Charuka974/findora-eureka-server.git
